@@ -52,7 +52,8 @@ def create_index():
 
 
 def query_index(index, query):
-    response = index.query(query, mode="embedding")
+    response = index.query(query, mode="default",
+                           response_mode="tree_summarize")
     sources = response.get_formatted_sources(
         length=2000)
     print("\nSources:", sources)
