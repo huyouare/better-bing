@@ -34,9 +34,9 @@ def handle_index(option, input_url=''):
     if option != 'None':
         print("Loading index:", option)
         assert option in option_files
-        result = load_index(option_files[option])
         st.session_state["index"] = True
-    return result
+        return load_index(option_files[option])
+    return None
 
 @st.cache_resource
 def create_index():
@@ -100,13 +100,13 @@ if "past" not in st.session_state:
 
 option = st.selectbox(
     '(Optional) select a pre-generated index:',
-    list(option_files.keys()) + ['None',])
+    ['None',] + list(option_files.keys()) )
 
 index = handle_index(option)
 
 if "index" in st.session_state:
     print("Current index:", index)
-    st.write("Loading chain..." + index)
+    st.write("Loading chain..." + str(index))
     chain = load_chain(index)
     st.write("Finished loading chain")
     user_input = get_text()
