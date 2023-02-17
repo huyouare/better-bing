@@ -169,8 +169,10 @@ def get_text():
     return input_text
 
 
-st.set_page_config(page_title="Better Bing", page_icon=":robot:")
-st.header("Generate a better ChatGPT for your own content.")
+st.set_page_config(
+    page_title="YACC: Yet Another ChatGPT Customizer", page_icon=":robot:")
+st.header("YACC: Yet Another ChatGPT Customizer")
+st.subheader("Supercharge ChatGPT for your own content.")
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
