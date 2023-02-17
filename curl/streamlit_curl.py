@@ -4,7 +4,6 @@ sys.path.append("..")
 import data_loader
 import streamlit as st
 
-
 import os
 import requests
 from urllib.parse import urlparse
@@ -12,12 +11,16 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
+headers = {
+    'User-Agent': 'betterbingbawt 1.0',
+}
+
 st.set_page_config(page_title="Curl", page_icon=":robot:")
 """
 Downloads the URL from output folder and saves it.
 """
 def save_page(url, output_folder="../webpages"):
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
     extracted_text = soup.get_text().strip()
 

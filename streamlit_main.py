@@ -20,6 +20,9 @@ from pprint import pformat
 
 import streamlit as st
 
+st.set_page_config(page_title="Better Bing", page_icon=":robot:")
+st.header("Generate a better ChatGPT for your own content.")
+
 
 def bubble_(message, role, src):
     assert role in ["user", "bot"]
@@ -95,11 +98,10 @@ class bubble:
 
 llm = OpenAI()
 
-
 @st.cache_resource
 def load_index(path, option=''):
-    print('loading index')
-    if option == 'Gap Earnings':
+    print('loading index for: ' + option, path)
+    if option == "Gap Earnings":
         return GPTTreeIndex.load_from_disk(path)
     else:
         return GPTSimpleVectorIndex.load_from_disk(path)
@@ -122,9 +124,10 @@ def gather_indexes(directory):
         # remove the prefix index_
         filename = filename.replace("index_", "")
         file_paths[filename] = file_or_directory_path
-        print(filename, file_or_directory_path)
     return file_paths
 
+# Each file should have a list of three things:
+# A name, description, and index filepath
 
 option_files = {
     'Paul Graham essays': 'indexes/index_1676177220783.json',
@@ -140,6 +143,7 @@ def handle_index(option, input_url=''):
     # Skip crawling if using pre-generated index.
     if option != 'None':
         print("Loading index:", option)
+        # saved_indexes = gather_indexes("./indexes/")
         assert option in option_files
         st.session_state["index"] = True
         return load_index(option_files[option], option)
@@ -168,16 +172,16 @@ def load_chain(index):
             description="PDF of financials and earnings from the company Gap filed to the SEC. If you have any question about Gap financials, use this tool. The input to this should be a natural language question.",
             return_direct=False
         ),
-        Tool(
-            name="Search",
-            func=search.run,
-            description="Look up something not in the Gap financials PDF."
-        ),
-        Tool(
-            name="Calculator",
-            func=llm_math_chain.run,
-            description="useful for when you need to answer questions about math"
-        )
+        # Tool(
+        #     name="Search",
+        #     func=search.run,
+        #     description="Look up something not in the Gap financials PDF."
+        # ),
+        # Tool(
+        #     name="Calculator",
+        #     func=llm_math_chain.run,
+        #     description="useful for when you need to answer questions about math"
+        # )
     ]
     memory = ConversationBufferMemory(memory_key="chat_history")
     llm = OpenAI(temperature=0)
@@ -203,6 +207,7 @@ if "generated" not in st.session_state:
 if "past" not in st.session_state:
     st.session_state["past"] = []
 
+# saved_indexes = gather_indexes("./indexes/")
 
 option = st.selectbox(
     'Select a pre-generated index:',
