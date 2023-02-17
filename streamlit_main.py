@@ -45,12 +45,6 @@ def handle_index(option, input_url=''):
         return load_index(option_files[option], option)
     return None
 
-
-@st.cache_resource
-def create_index():
-    return data_loader.create_index(dir_name=st.session_state["crawl_directory"])
-
-
 def query_index(index, query):
     response = index.query(query, mode="default",
                            response_mode="tree_summarize")
@@ -84,8 +78,8 @@ def load_chain(index):
             description="useful for when you need to answer questions about math"
         )
     ]
-
     memory = ConversationBufferMemory(memory_key="chat_history")
+    llm = OpenAI(temperature=0)
     agent_chain = initialize_agent(
         tools, llm, agent="conversational-react-description", memory=memory, verbose=True)
     return agent_chain
@@ -114,10 +108,7 @@ option = st.selectbox(
 index = handle_index(option)
 
 if "index" in st.session_state:
-    print("Current index:", index)
-    st.write("Loading chain..." + str(index))
     chain = load_chain(index)
-    st.write("Finished loading chain")
     user_input = get_text()
 
     if user_input:
@@ -129,7 +120,6 @@ if "index" in st.session_state:
         st.session_state.generated.append(output)
 
     if st.session_state["generated"]:
-
         for i in range(len(st.session_state["generated"]) - 1, -1, -1):
             message(st.session_state["generated"][i], key=str(i))
             message(st.session_state["past"][i],

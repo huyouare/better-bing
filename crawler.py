@@ -56,12 +56,16 @@ class Crawler:
         # Replace suffix with .txt
         # Example: "talk.html" -> "talk.txt"
         filename = os.path.splitext(url_path)[0] + ".txt"
-        filename = os.path.join(self.output_folder, filename)
+        file_path = os.path.join(self.output_folder, filename)
+
+        # Create the folder for this crawl if it does not exist.
+        if not os.path.exists(os.path.dirname(filename)):
+            os.mkdir(file_path)
 
         # Create and write filename
-        with open(filename, "w") as file:
+        with open(file_path, "w") as file:
             file.write(extracted_text)
-            print("Created " + filename)
+            print("Created " + file_path)
 
     """
     Given the URL, returns a list of all links. Only include internal-links to this website.
