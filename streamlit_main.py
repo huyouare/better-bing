@@ -142,7 +142,7 @@ def load_chain(index):
         Tool(
             name="PDF of Gap financials and earnings",
             func=lambda q: str(query_index(index, q)),
-            description="PDF of financials and earnings from the company Gap filed to the SEC.",
+            description="PDF of financials and earnings from the company Gap filed to the SEC. If you have any question about Gap financials, use this tool. The input to this should be a natural language question.",
             return_direct=False
         ),
         Tool(

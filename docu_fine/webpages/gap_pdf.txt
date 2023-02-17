@@ -1,0 +1,695 @@
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+(Mark One)
+☑	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the quarterly period ended October 29, 2022
+or
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the transition period from              to             
+Commission File Number 1-7562
+THE GAP, INC.
+(Exact name of registrant as specified in its charter)
+Delaware	 	94-1697231	(State or other jurisdiction of incorporation or organization)	 	(I.R.S. Employer Identification No.) 
+Two Folsom Street
+San Francisco, California 94105
+(Address of principal executive offices and zip code)
+Registrant’s telephone number, including area code: (415) 427-0100
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class		Trading Symbol		Name of each exchange on which registered	Common Stock, $0.05 par value		GPS		The New York Stock Exchange 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☑ No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☑    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer	☑	Accelerated filer	☐	 Non-accelerated filer	☐	 Smaller reporting company	☐							Emerging growth company	☐ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☑
+The number of shares of the registrant’s common stock outstanding as of November 15, 2022 was 365,048,522.
+
+
+FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q contains forward-looking statements within the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. All statements other than those that are purely historical are forward-looking statements. Words such as “expect,” “anticipate,” “believe,” “estimate,” “intend,” “plan,” “project,” and similar expressions also identify forward-looking statements. Forward-looking statements include, but are not limited to, statements regarding the following:
+•the potential impact of global economic conditions on the assumptions and estimates used when preparing the Condensed Consolidated Financial Statements;
+•the impact of recent accounting pronouncements;
+•the timing of revenue recognition of upfront payments related to our new credit card program agreements with Barclays and Mastercard;
+•the timing of recognition in income of unrealized gains and losses from designated cash flow hedges;
+•the impact of losses due to indemnification obligations on the Condensed Consolidated Financial Statements;
+•the outcome of proceedings, lawsuits, disputes, and claims, including the impact of such actions on the Condensed Consolidated Financial Statements and our financial results;
+•our arrangements with third parties to operate stores and websites selling apparel and related products under our brand names;
+•our plans to introduce certain stored inventory into the market and the impact on inventory expenditures in future periods;
+•our plans to rationalize the Gap and Banana Republic store fleet by reducing the number of Gap and Banana Republic stores in North America;
+•driving improved sales through assortment improvements and a balanced and relevant category mix;
+•reducing our fixed cost structure to improve profitability and manage through current macro-economic challenges;
+•leveraging our scale to navigate disruptions and constraints in the global supply chain;
+•managing inventory to support a healthy merchandise margin;
+•prioritizing asset-light growth through licensing, online, and franchise partnerships globally;
+•creating product that offers value to our customers through a combination of fit, quality, brand and price;
+•optimizing investments in our four purpose-led lifestyle brands to drive relevance and gain market share;
+•growing our online business;
+•attracting and retaining strong talent in our businesses and functions;
+•continuing to integrate social and environmental sustainability into business practices to support long-term growth;
+•our Power Plan strategy and our ability to execute against it, including by leveraging our competitive strengths;
+•the significance and impact of tax expense in the fourth quarter of fiscal 2022;
+•our ability to supplement near-term liquidity, if necessary, with the ABL Facility or other available market instruments;
+•the impact of seasonality and global economic conditions on certain asset and liability accounts as well as cash inflows and outflows;
+•the ability of our cash flows from our operations, current balances of cash and cash equivalents, the Senior Notes and the ABL Facility, and other available market instruments to support our business operations and liquidity requirements;
+•the importance of our sustained ability to generate free cash flow, which is a non-GAAP financial measure and is defined and discussed in more detail in Item 2 of Part 1 of this Form 10-Q below;
+•our dividend policy, including the potential timing and amounts of future dividends; and
+•the impact of changes in internal control over financial reporting.
+Because these forward-looking statements involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. These factors include, without limitation, the following:
+•the overall global economic and geopolitical environment, consumer spending patterns and risks associated with the COVID-19 pandemic;
+•the risk that we may be unable to manage our inventory effectively and the resulting impact on our gross margins and sales;
+•the risk that inflation continues to rise, which could increase our expenses and negatively impact consumer demand;
+
+
+•the risk that our estimates regarding consumer demand are inaccurate, or that global economic conditions worsen beyond what we currently estimate;
+•the risk that we fail to manage key executive succession and retention and to continue to attract qualified personnel;
+•the risk that we may be unable to mitigate the impact of global supply chain disruptions on our business and operations and maintain inventory commensurate with consumer demand;
+•the risk that global supply chain delays will result in receiving inventory after the applicable selling season and lead to significant impairment charges;
+•the risk that we or our franchisees may be unsuccessful in gauging apparel trends and changing consumer preferences or responding with sufficient lead time;
+•the risk that we fail to maintain, enhance and protect our brand image and reputation;
+•the risk that increased public focus on our ESG initiatives or our inability to meet our stated ESG goals could affect our brand image and reputation;
+•the highly competitive nature of our business in the United States and internationally;
+•engaging in or seeking to engage in strategic transactions that are subject to various risks and uncertainties;
+•the risk that our investments in customer, digital, and omni-channel shopping initiatives may not deliver the results we anticipate;
+•the risks to our business, including our costs and global supply chain, associated with global sourcing and manufacturing;
+•the risks to our reputation or operations associated with importing merchandise from foreign countries, including failure of our vendors to adhere to our Code of Vendor Conduct;
+•the risk of data or other security breaches or vulnerabilities that may result in increased costs, violations of law, significant legal and financial exposure, and a loss of confidence in our security measures;
+•the risk that failures of, or updates or changes to, our IT systems may disrupt our operations;
+•the risk that our efforts to expand internationally may not be successful;
+•the risk that our franchisees and licensees could impair the value of our brands;
+•the risk that trade matters could increase the cost or reduce the supply of apparel available to us;
+•the risk of foreign currency exchange rate fluctuations;
+•the risk that our comparable sales and margins may experience fluctuations or that we may fail to meet financial market expectations;
+•natural disasters, public health crises (similar to and including the ongoing COVID-19 pandemic), political crises (such as the ongoing conflict between Russia and Ukraine), negative global climate patterns, or other catastrophic events;
+•the risk that we or our franchisees may be unsuccessful in identifying, negotiating, and securing new store locations and renewing, modifying, or terminating leases for existing store locations effectively;
+•the risk that we will not be successful in defending various proceedings, lawsuits, disputes, and claims;
+•our failure to comply with applicable laws and regulations and changes in the regulatory or administrative landscape;
+•reductions in income and cash flow from our credit card arrangement related to our private label and co-branded credit cards;
+•the risk that our level of indebtedness may impact our ability to operate and expand our business;
+•the risk that we and our subsidiaries may be unable to meet our obligations under our indebtedness agreements;
+•the risk that changes in our credit profile or deterioration in market conditions may limit our access to the capital markets;
+•the risk that the adoption of new accounting pronouncements will impact future results; and
+•the risk that we do not repurchase some or all of the shares we anticipate purchasing pursuant to our repurchase program.
+Additional information regarding factors that could cause results to differ can be found in our Annual Report on Form 10-K for the fiscal year ended January 29, 2022 and our other filings with the U.S. Securities and Exchange Commission.
+Future economic and industry trends that could potentially impact net sales and profitability are difficult to predict. These forward-looking statements are based on information as of November 22, 2022. We assume no obligation to publicly update or revise our forward-looking statements even if experience or future changes make it clear that any projected results expressed or implied therein will not be realized.
+
+
+We suggest that this document be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended January 29, 2022.
+
+
+THE GAP, INC.
+TABLE OF CONTENTS
+ 
+ 		Page		
+PART I - FINANCIAL INFORMATION
+Item 1.	
+Financial Statements
+1
+Condensed Consolidated Balance Sheets as of October 29, 2022, January 29, 2022, and October 30, 2021
+1
+Condensed Consolidated Statements of Operations for the 13 Weeks and 39 Weeks Ended October 29, 2022 and October 30, 2021
+2
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the 13 Weeks and 39 Weeks Ended October 29, 2022 and October 30, 2021
+3
+Condensed Consolidated Statements of Stockholders' Equity for the 13 Weeks and 39 Weeks Ended October 29, 2022 and October 30, 2021
+4
+Condensed Consolidated Statements of Cash Flows for the 39 Weeks Ended October 29, 2022 and October 30, 2021
+6
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.	
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3.	
+Quantitative and Qualitative Disclosures About Market Risk
+25
+Item 4.	
+Controls and Procedures
+25
+PART II - OTHER INFORMATION
+Item 1.	
+Legal Proceedings
+26
+Item 1A.	
+Risk Factors
+26
+Item 2.	
+Unregistered Sales of Equity Securities and Use of Proceeds
+26
+Item 6.	
+Exhibits
+27
+ 
+
+
+PART I – FINANCIAL INFORMATION
+Item 1.     Financial Statements.
+THE GAP, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+ 
+($ and shares in millions except par value)	October 29,
+2022		January 29,
+2022		October 30,
+2021	ASSETS						Current assets:						Cash and cash equivalents	$	679 			$	877 			$	801 		Short-term investments	— 			— 			275 		Merchandise inventory	3,043 			3,018 			2,721 		Other current assets	1,316 			1,270 			1,410 		Total current assets	5,038 			5,165 			5,207 		
+Property and equipment, net of accumulated depreciation of $4,957, $5,071 and $5,486
+2,788 			3,037 			2,924 		Operating lease assets	3,341 			3,675 			3,788 		Other long-term assets	833 			884 			861 		Total assets	$	12,000 			$	12,761 			$	12,780 		LIABILITIES AND STOCKHOLDERS’ EQUITY						Current liabilities:						Accounts payable	$	1,388 			$	1,951 			$	1,630 		Accrued expenses and other current liabilities	1,245 			1,367 			1,414 		Current portion of operating lease liabilities	691 			734 			746 		Income taxes payable	57 			25 			33 		Total current liabilities	3,381 			4,077 			3,823 		Long-term liabilities:						Revolving credit facility	350 			— 			— 		Long-term debt	1,486 			1,484 			1,484 		Long-term operating lease liabilities	3,673 			4,033 			4,163 		Other long-term liabilities	539 			445 			523 		Total long-term liabilities	6,048 			5,962 			6,170 		Commitments and contingencies (see Note 9)						Stockholders’ equity:						
+Common stock $0.05 par value
+Authorized 2,300 shares for all periods presented; Issued and Outstanding 365, 371, and 374 shares
+18 			19 			19 		Additional paid-in capital	16 			43 			71 		Retained earnings	2,468 			2,622 			2,681 		Accumulated other comprehensive income	69 			38 			16 		Total stockholders’ equity	2,571 			2,722 			2,787 		Total liabilities and stockholders’ equity	$	12,000 			$	12,761 			$	12,780 	 
+See Accompanying Notes to Condensed Consolidated Financial Statements
+1
+
+THE GAP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+ 
+ 	13 Weeks Ended		39 Weeks Ended	($ and shares in millions except per share amounts)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Net sales	$	4,039 			$	3,943 			$	11,373 			$	12,145 		Cost of goods sold and occupancy expenses	2,530 			2,282 			7,438 			7,031 		Gross profit	1,509 			1,661 			3,935 			5,114 		Operating expenses	1,323 			1,508 			3,974 			4,312 		Operating income (loss)	186 			153 			(39)			802 		Loss on extinguishment of debt	— 			325 			— 			325 		Interest expense	22 			44 			63 			149 		Interest income	(4)			(1)			(6)			(3)		Income (loss) before income taxes	168 			(215)			(96)			331 		Income taxes	(114)			(63)			(167)			59 		Net income (loss)	$	282 			$	(152)			$	71 			$	272 		Weighted-average number of shares - basic	365 			376 			367 			377 		Weighted-average number of shares - diluted	366 			376 			370 			385 		Earnings (loss) per share - basic	$	0.77 			$	(0.40)			$	0.19 			$	0.72 		Earnings (loss) per share - diluted	$	0.77 			$	(0.40)			$	0.19 			$	0.71 	 
+See Accompanying Notes to Condensed Consolidated Financial Statements
+2
+
+THE GAP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+ 
+ 	13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Net income (loss)	$	282 			$	(152)			$	71 			$	272 		Other comprehensive income (loss), net of tax								Foreign currency translation	6 			4 			13 			2 		
+Change in fair value of derivative financial instruments, net of tax of $1, $—, $3, and $—
+31 			1 			40 			(6)		
+Reclassification adjustment for losses (gains) on derivative financial instruments, net of tax benefit of $—, $2, $—, and $3
+(14)			3 			(22)			11 		Other comprehensive income, net of tax	23 			8 			31 			7 		Comprehensive income (loss)	$	305 			$	(144)			$	102 			$	279 	 
+See Accompanying Notes to Condensed Consolidated Financial Statements
+3
+
+THE GAP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Unaudited)
+ 		Common Stock		Additional
+Paid-in
+Capital		Retained
+Earnings		Accumulated
+Other
+Comprehensive
+Income		 	($ and shares in millions except per share amounts)		Shares		Amount		Total	Balance as of July 30, 2022		364 			$	18 			$	— 			$	2,241 			$	46 			$	2,305 		Net income for the 13 weeks ended October 29, 2022								282 					282 		Other comprehensive income (loss), net of tax													Foreign currency translation										6 			6 		Change in fair value of derivative financial instruments										31 			31 		Amounts reclassified from accumulated other comprehensive income										(14)			(14)		Repurchases and retirement of common stock		(2)			— 			(12)							(12)		Issuance of common stock related to stock options and employee stock purchase plans		1 			— 			8 							8 		Issuance of common stock and withholding tax payments related to vesting of stock units		2 			— 			(2)							(2)		Share-based compensation, net of forfeitures						22 							22 		
+Common stock dividends declared and paid ($0.15 per share)
+(55)					(55)		Balance as of October 29, 2022		365 			$	18 			$	16 			$	2,468 			$	69 			$	2,571 															Balance as of July 31, 2021		376 			$	19 			$	114 			$	2,879 			$	8 			$	3,020 	Net loss for the 13 weeks ended October 30, 2021								(152)					(152)		Other comprehensive income (loss), net of tax													Foreign currency translation										4 			4 		Change in fair value of derivative financial instruments										1 			1 		Amounts reclassified from accumulated other comprehensive income										3 			3 		Repurchases and retirement of common stock		(3)			— 			(73)							(73)		Issuance of common stock related to stock options and employee stock purchase plans		1 			— 			7 							7 		Issuance of common stock and withholding tax payments related to vesting of stock units		— 			— 			(2)							(2)		Share-based compensation, net of forfeitures						25 							25 		
+Common stock dividends declared and paid ($0.12 per share)
+(46)					(46)		Balance as of October 30, 2021		374 			$	19 			$	71 			$	2,681 			$	16 			$	2,787 	     
+See Accompanying Notes to Condensed Consolidated Financial Statements
+
+
+
+
+4
+
+THE GAP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Unaudited)
+ 		Common Stock		Additional
+Paid-in
+Capital		Retained
+Earnings		Accumulated
+Other
+Comprehensive
+Income		 	($ and shares in millions except per share amounts)		Shares		Amount		Total	Balance as of January 29, 2022		371 			$	19 			$	43 			$	2,622 			$	38 			$	2,722 		Net income for the 39 weeks ended October 29, 2022								71 					71 		Other comprehensive income (loss), net of tax													Foreign currency translation										13 			13 		Change in fair value of derivative financial instruments										40 			40 		Amounts reclassified from accumulated other comprehensive income										(22)			(22)		Repurchases and retirement of common stock		(11)			(1)			(63)			(59)					(123)		Issuance of common stock related to stock options and employee stock purchase plans		2 			— 			23 							23 		Issuance of common stock and withholding tax payments related to vesting of stock units		3 			— 			(17)							(17)		Share-based compensation, net of forfeitures						30 							30 		
+Common stock dividends declared and paid ($0.45 per share)
+(166)					(166)		Balance as of October 29, 2022		365 			$	18 			$	16 			$	2,468 			$	69 			$	2,571 															Balance as of January 30, 2021		374 			$	19 			$	85 			$	2,501 			$	9 			$	2,614 	Net income for the 39 weeks ended October 30, 2021								272 					272 		Other comprehensive income (loss), net of tax													Foreign currency translation										2 			2 		Change in fair value of derivative financial instruments										(6)			(6)		Amounts reclassified from accumulated other comprehensive income										11 			11 		Repurchases and retirement of common stock		(5)			— 			(128)							(128)		Issuance of common stock related to stock options and employee stock purchase plans		3 			— 			48 							48 		Issuance of common stock and withholding tax payments related to vesting of stock units		2 			— 			(34)							(34)		Share-based compensation, net of forfeitures						100 							100 		
+Common stock dividends declared and paid ($0.24 per share)
+(92)					(92)		Balance as of October 30, 2021		374 			$	19 			$	71 			$	2,681 			$	16 			$	2,787 	     
+See Accompanying Notes to Condensed Consolidated Financial Statements
+
+
+
+
+5
+
+THE GAP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+ 	39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021	Cash flows from operating activities:				Net income	$	71 			$	272 		Adjustments to reconcile net income to net cash provided by (used for) operating activities:				Depreciation and amortization	402 			372 	Share-based compensation	28 			97 		Impairment of operating lease assets	16 			6 		Impairment of store assets	10 			1 	Loss on extinguishment of debt	— 			325 		Amortization of debt issuance costs	5 			11 		Non-cash and other items	(8)			21 		Loss on divestiture activity	35 			59 	Gain on sale of building	(83)			— 		Deferred income taxes	32 			(28)		Changes in operating assets and liabilities:				Merchandise inventory	(78)			(288)		Other current assets and other long-term assets	(34)			(168)	Accounts payable	(503)			(119)		Accrued expenses and other current liabilities	(123)			239 		Income taxes payable, net of receivables and other tax-related items	216 			(94)		Other long-term liabilities	(7)			49 		Operating lease assets and liabilities, net	(91)			(73)		Net cash provided by (used for) operating activities	(112)			682 		Cash flows from investing activities:				Purchases of property and equipment	(577)			(486)		Net proceeds from sale of buildings	458 			— 	Purchases of short-term investments	— 			(634)		Proceeds from sales and maturities of short-term investments	— 			768 		Payments for acquisition activity, net of cash acquired	— 			(135)		Net cash paid for divestiture activity	— 			(21)	Net cash used for investing activities	(119)			(508)		Cash flows from financing activities:			Proceeds from revolving credit facility	350 			— 	Proceeds from issuance of long-term debt	— 			1,500 		Payments to extinguish debt	— 			(2,546)		Payments for debt issuance costs	(6)			(16)		Proceeds from issuances under share-based compensation plans	23 			48 		Withholding tax payments related to vesting of stock units	(17)			(34)		Repurchases of common stock	(123)			(128)	Cash dividends paid	(166)			(182)		Other	(1)			— 		Net cash provided by (used for) financing activities	60 			(1,358)		Effect of foreign exchange rate fluctuations on cash, cash equivalents, and restricted cash	(25)			(3)		Net decrease in cash, cash equivalents, and restricted cash	(196)			(1,187)		Cash, cash equivalents, and restricted cash at beginning of period	902 			2,016 		Cash, cash equivalents, and restricted cash at end of period	$	706 			$	829 	Supplemental disclosure of cash flow information:				Cash paid for interest during the period	$	70 			$	178 		Cash paid (received) for income taxes during the period, net of refunds	$	(407)			$	181 	 
+See Accompanying Notes to Condensed Consolidated Financial Statements
+6
+
+THE GAP, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1. Accounting Policies
+Basis of Presentation
+In the opinion of The Gap, Inc. (the “Company,” “we,” and “our”) management, the accompanying unaudited Condensed Consolidated Financial Statements contain all normal and recurring adjustments (except as otherwise disclosed) considered necessary to present fairly our financial position, results of operations, comprehensive income (loss), stockholders' equity, and cash flows as of October 29, 2022 and October 30, 2021 and for all periods presented. The Condensed Consolidated Balance Sheet as of January 29, 2022 has been derived from our audited financial statements.
+The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with the rules and regulations of the Securities and Exchange Commission. Accordingly, certain information and disclosures normally included in the notes to the annual financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) have been omitted from these interim financial statements, although the Company believes that the disclosures made are adequate to make the information not misleading. We suggest that you read these Condensed Consolidated Financial Statements in conjunction with the Consolidated Financial Statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 29, 2022.
+The results of operations for the 13 and 39 weeks ended October 29, 2022 are not necessarily indicative of the operating results that may be expected for the 52-week period ending January 28, 2023.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from these estimates. Additionally, these estimates and assumptions may change as a result of the impact of global economic conditions such as the uncertainty regarding global inflationary pressures, the coronavirus ("COVID-19") pandemic, and the Russia-Ukraine crisis. We will continue to consider the impact of the global economic conditions on the assumptions and estimates used when preparing these Condensed Consolidated Financial Statements including inventory valuation, income taxes and valuation allowances, sales return allowances, and the impairment of long-lived store assets and operating lease assets. If the global economic conditions worsen beyond what is currently estimated by management, such future changes may have an adverse impact on the Company's results of operations and financial position.
+Restricted Cash
+As of October 29, 2022, restricted cash primarily included consideration that serves as collateral for certain obligations occurring in the normal course of business and our insurance obligations. The following table provides a reconciliation of cash, cash equivalents, and restricted cash reported within our Condensed Consolidated Balance Sheets to the total shown on our Condensed Consolidated Statements of Cash Flows:
+($ in millions)	October 29,
+2022		January 29,
+2022		October 30,
+2021	Cash and cash equivalents, per Condensed Consolidated Balance Sheets	$	679 			$	877 			$	801 		Restricted cash included in other current assets	1 			— 			3 		Restricted cash included in other long-term assets	26 			25 			25 		Total cash, cash equivalents, and restricted cash, per Condensed Consolidated Statements of Cash Flows	$	706 			$	902 			$	829 	 
+Accounting Pronouncements
+Except as noted below, the Company has considered all recent accounting pronouncements and concluded that there are no recent accounting pronouncements that may have a material impact on our Condensed Consolidated Financial Statements and disclosures, based on current information.
+ASU No. 2022-04, Disclosure of Supplier Finance Program Obligations
+In September 2022, the Financial Accounting Standards Board issued accounting standards update ("ASU") No. 2022-04, Disclosure of Supplier Finance Program Obligations. The ASU is intended to enhance the transparency of the use of supplier finance programs by requiring that the buyers in those programs provide additional disclosures about the program’s nature and potential magnitude, including a rollforward of the obligations and activity during the period. The ASU is effective for fiscal years and interim periods within those years beginning after December 15, 2022, except for the amendment on rollforward information, which is effective for fiscal years beginning after December 15, 2023. The amendments in the update should be applied retrospectively, except for the amendment on rollforward information, which should be applied prospectively. We are currently assessing the impact of this ASU on our Consolidated Financial Statements and related disclosures.
+Note 2. Revenue
+Disaggregation of Net Sales
+We disaggregate our net sales between stores and online and also by brand and region. Net sales by region are allocated based on the location of the store where the customer paid for and received the merchandise or the distribution center or store from which the products were shipped.
+Net sales disaggregated for stores and online sales are as follows:
+13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29, 2022		October 30, 2021		October 29, 2022		October 30, 2021Store sales (1)	$	2,478 			$	2,456 			$	7,168 			$	7,668 		Online sales (2)	1,561 			1,487 			4,205 			4,477 		Total net sales	$	4,039 			$	3,943 			$	11,373 			$	12,145 	 
+__________
+(1)Store sales primarily include sales made at our Company-operated stores and franchise sales.
+(2)Online sales primarily include sales originating from our online channel including those that are picked up or shipped from stores.
+
+7
+
+Net sales disaggregated by brand and region are as follows:
+($ in millions)		Old Navy Global		Gap Global		Banana Republic Global		Athleta Global		Other (2)		Total	13 Weeks Ended October 29, 2022							U.S. (1)		$	1,936 			$	690 			$	448 			$	326 			$	4 			$	3,404 		Canada		184 			95 			47 			7 			— 			333 		Europe		1 			58 			1 			1 			— 			61 		Asia		— 			143 			14 			— 			— 			157 		Other regions		16 			55 			7 			6 			— 			84 		Total		$	2,137 			$	1,041 			$	517 			$	340 			$	4 			$	4,039 	 
+($ in millions)		Old Navy Global		Gap Global		Banana Republic Global		Athleta Global		Other		Total	13 Weeks Ended October 30, 2021							U.S. (1)		$	1,899 			$	676 			$	410 			$	317 			$	— 			$	3,302 		Canada		185 			102 			47 			3 			— 			337 		Europe		1 			89 			2 			— 			— 			92 		Asia		— 			141 			14 			— 			— 			155 		Other regions		20 			31 			6 			— 			— 			57 		Total		$	2,105 			$	1,039 			$	479 			$	320 			$	— 			$	3,943 	 
+($ in millions)		Old Navy Global		Gap Global		Banana Republic Global		Athleta Global		Other (2)		Total	39 Weeks Ended October 29, 2022						U.S. (1)		$	5,489 			$	1,752 			$	1,324 			$	1,005 			$	10 			$	9,580 		Canada		514 			241 			143 			23 			— 			921 		Europe		2 			163 			4 			3 			— 			172 		Asia		1 			425 			48 			— 			— 			474 		Other regions		62 			132 			19 			13 			— 			226 		Total		$	6,068 			$	2,713 			$	1,538 			$	1,044 			$	10 			$	11,373 	 
+($ in millions)		Old Navy Global		Gap Global		Banana Republic Global		Athleta Global		Other (3)		Total	39 Weeks Ended October 30, 2021						U.S. (1)		$	6,175 			$	1,847 			$	1,171 			$	1,004 			$	100 			$	10,297 		Canada		535 			249 			124 			3 			— 			911 		Europe		1 			274 			6 			1 			— 			282 		Asia		1 			439 			49 			— 			— 			489 		Other regions		63 			90 			13 			— 			— 			166 		Total		$	6,775 			$	2,899 			$	1,363 			$	1,008 			$	100 			$	12,145 	 
+__________
+(1)U.S. includes the United States and Puerto Rico.
+(2)Primarily consists of net sales from revenue-generating strategic initiatives.
+(3)Primarily consists of net sales for the Intermix brand, which was divested on May 21, 2021. Also includes net sales for the Janie and Jack brand, which was divested on April 8, 2021.
+8
+
+Deferred Revenue
+We defer revenue when cash payments are received in advance of performance for unsatisfied obligations related to our gift cards, licensing agreements, outstanding loyalty points, and reimbursements of loyalty program discounts associated with our credit card agreement. For the 13 weeks ended October 29, 2022, the opening balance of deferred revenue for these obligations was $321 million, of which $119 million was recognized as revenue during the period. For the 39 weeks ended October 29, 2022, the opening balance of deferred revenue for these obligations was $345 million, of which $212 million was recognized as revenue during the period. The closing balance of deferred revenue for these obligations was $323 million as of October 29, 2022.
+For the 13 weeks ended October 30, 2021, the opening balance of deferred revenue for these obligations was $239 million, of which $98 million was recognized as revenue during the period. For the 39 weeks ended October 30, 2021, the opening balance of deferred revenue for these obligations was $231 million, of which $145 million was recognized as revenue during the period. The closing balance of deferred revenue for these obligations was $270 million as of October 30, 2021.
+The increase in the revenue recognition during the 39 weeks ended October 29, 2022 is primarily due to our new integrated loyalty program across the U.S. and Puerto Rico, which launched in July 2021 and allows for faster accumulation and redemption of rewards.
+In April 2021, the Company entered into agreements with Barclays and Mastercard relating to a new long-term credit card program. In May 2022, the Company launched the new credit card program with Barclays and Mastercard and accordingly, our prior credit card program with Synchrony Financial was discontinued. The Company received an upfront payment of $60 million related to the new agreements prior to the program launch, which is being recognized as revenue over the term of the agreements.
+Note 3. Debt and Credit Facilities
+Long-term debt recorded on the Condensed Consolidated Balance Sheets consists of the following:
+($ in millions)	October 29,
+2022		January 29,
+2022		October 30,
+20212029 Notes	750 			750 			750 		2031 Notes	750 			750 			750 		Less: Unamortized debt issuance costs	(14)			(16)			(16)		Total long-term debt	$	1,486 			$	1,484 			$	1,484 	 
+The scheduled maturity of the Senior Notes is as follows:
+Scheduled Maturity ($ in millions)	Principal		Interest Rate		Interest PaymentsOctober 1, 2029 (1)	$	750 			3.625 	%		Semi-Annual	October 1, 2031 (2)	750 			3.875 	%		Semi-Annual	Total issuance	$	1,500 					 __________
+(1)Includes an option to redeem the 2029 Notes, in whole or in part at any time, subject to a make-whole premium, prior to October 1, 2024. On or after October 1, 2024, includes an option to redeem the 2029 Notes, in whole or in part at any time, at stated redemption prices.
+(2)Includes an option to redeem the 2031 Notes, in whole or in part at any time, subject to a make-whole premium, prior to October 1, 2026. On or after October 1, 2026, includes an option to redeem the 2031 Notes, in whole or in part at any time, at stated redemption prices.
+On September 27, 2021, we completed the issuance of $1.5 billion aggregate principal amount of 3.625 percent senior notes due 2029 (“2029 Notes”) and 3.875 percent senior notes due 2031 (“2031 Notes”) (the 2029 Notes and the 2031 Notes, collectively, the “Senior Notes”). As of October 29, 2022, the aggregate estimated fair value of the Senior Notes was $1.06 billion and was based on the quoted market prices for each of the Senior Notes (level 1 inputs) as of the last business day of the fiscal quarter. The aggregate principal amount of the Senior Notes is recorded in long-term debt on the Condensed Consolidated Balance Sheets, net of the unamortized debt issuance cost.
+9
+
+On May 7, 2020, we entered into a senior secured asset-based revolving credit agreement (the "ABL Facility"), which was previously scheduled to expire in May 2023. On July 13, 2022, we entered into an amendment and restatement of the ABL Facility. Among other changes, the amendment and restatement extended the maturity of the ABL Facility to July 2027, increased the borrowing capacity from $1.8675 billion to $2.2 billion, modified the reference rate from the London Interbank Offered Rate ("LIBOR") to the Secured Overnight Financing Rate ("SOFR"), and reduced the applicable interest rate margin. Following the amendment and restatement, the ABL Facility generally bears interest at a per annum rate based on SOFR (subject to a zero floor) plus a margin, depending on borrowing base availability. The ABL Facility is available for working capital, capital expenditures, and other general corporate purposes.
+As of October 29, 2022, the Company's outstanding borrowing under the ABL Facility was $350 million. The variable interest rate on the drawn amount is adjusted SOFR (calculated to include a 0.10% credit adjustment spread) plus a margin of 1.25%. The borrowing was recorded in long-term liabilities on the Condensed Consolidated Balance Sheet as of October 29, 2022.
+We also have the ability to issue letters of credit on our ABL Facility. As of October 29, 2022, we had $51 million in standby letters of credit issued under the ABL Facility.
+The ABL Facility is secured by specified U.S. and Canadian assets, including a first lien on inventory, certain receivables, and related assets. The ABL Facility contains customary covenants restricting the Company's activities, as well as those of its subsidiaries, including limitations on the ability to sell assets, engage in mergers or other fundamental changes, enter into capital leases or certain leases not in the ordinary course of business, enter into transactions involving related parties or derivatives, incur or prepay indebtedness, grant liens or negative pledges on its assets, make loans or other investments, pay dividends or repurchase stock or other securities, guarantee third-party obligations, engage in sale and lease-back transactions and make changes in its corporate structure. There are exceptions to these covenants, and some are only applicable when unused availability falls below specified thresholds. In addition, the ABL Facility includes, as a financial covenant, a springing fixed charge coverage ratio which arises when availability falls below a specified threshold.
+We also maintain multiple agreements with third parties that make unsecured revolving credit facilities available for our operations in foreign locations (the “Foreign Facilities”). The Foreign Facilities are uncommitted and had a total capacity of $44 million as of October 29, 2022. As of October 29, 2022, there were no borrowings under the Foreign Facilities. There were $7 million in bank guarantees issued and outstanding primarily related to store leases under the Foreign Facilities as of October 29, 2022.
+Note 4. Fair Value Measurements
+The Company measures certain financial assets and liabilities at fair value on a recurring basis, including derivatives and available-for-sale debt securities. The Company categorizes financial assets and liabilities recorded at fair value based upon a three-level hierarchy that considers the related valuation techniques.
+There were no material purchases, sales, issuances, or settlements related to recurring level 3 measurements for the 13 and 39 weeks ended October 29, 2022 or October 30, 2021. There were no transfers of financial assets or liabilities into or out of level 1, level 2, and level 3 for the 13 and 39 weeks ended October 29, 2022 or October 30, 2021.
+10
+
+Financial Assets and Liabilities
+Financial assets and liabilities measured at fair value on a recurring basis and cash equivalents are as follows:
+ 	 		Fair Value Measurements at Reporting Date Using	($ in millions)	October 29, 2022		Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)		Significant Other
+Observable
+Inputs
+(Level 2)		Significant
+Unobservable
+Inputs
+(Level 3)	Assets:								Cash equivalents	$	19 			$	— 			$	19 			$	— 	Derivative financial instruments	46 			— 			46 			— 		Deferred compensation plan assets	37 			37 			— 			— 		Other assets	4 			— 			— 			4 		Total	$	106 			$	37 			$	65 			$	4 		Liabilities:								Derivative financial instruments	$	2 			$	— 			$	2 			$	— 		 	 		Fair Value Measurements at Reporting Date Using	($ in millions)	January 29, 2022		Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)		Significant Other
+Observable
+Inputs
+(Level 2)		Significant
+Unobservable
+Inputs
+(Level 3)	Assets:								Cash equivalents	$	27 			$	— 			$	27 			$	— 	Derivative financial instruments	16 			— 			16 			— 		Deferred compensation plan assets	40 			40 			— 			— 		Other assets	4 			— 			— 			4 		Total	$	87 			$	40 			$	43 			$	4 		Liabilities:								Derivative financial instruments	$	2 			$	— 			$	2 			$	— 		 	 		Fair Value Measurements at Reporting Date Using	($ in millions)	October 30, 2021		Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)		Significant Other
+Observable
+Inputs
+(Level 2)		Significant
+Unobservable
+Inputs
+(Level 3)	Assets:								Cash equivalents	$	146 			$	— 			$	146 			$	— 		Short-term investments	275 			216 			59 			— 		Derivative financial instruments	10 			— 			10 			— 		Deferred compensation plan assets	49 			49 			— 			— 		Other assets	4 			— 			— 			4 		Total	$	484 			$	265 			$	215 			$	4 		Liabilities:								Derivative financial instruments	$	13 			$	— 			$	13 			$	— 	 
+We have highly liquid fixed and variable income investments classified as cash equivalents. With the exception of our available-for-sale investments noted below, we value these investments at their original purchase prices plus interest that has accrued at the stated rate. Our cash equivalents are placed primarily in time deposits.
+11
+
+Our available-for-sale securities are comprised of investments in debt securities and are recorded in both short-term investments and cash and cash equivalents on the Condensed Consolidated Balance Sheet. These securities are recorded at fair value using market prices. As of October 29, 2022 and January 29, 2022, the Company held no available-for-sale debt securities on the Condensed Consolidated Balance Sheets. As of October 30, 2021, the Company held $275 million of available-for-sale debt securities with maturity dates greater than three months and less than two years within short-term investments on the Condensed Consolidated Balance Sheet. In addition, as of October 30, 2021, the Company held $125 million of available-for-sale debt securities with maturities of three months or less at the time of purchase within cash and cash equivalents on the Condensed Consolidated Balance Sheet. Unrealized gains and losses on available-for-sale debt securities included within accumulated other comprehensive income were not material as of October 30, 2021.
+The Company regularly reviews any available-for-sale debt securities for other-than-temporary impairment. For the 13 and 39 weeks ended October 30, 2021, the Company did not consider any of its securities to be other-than-temporarily impaired and, accordingly, did not recognize any impairment loss.
+Derivative financial instruments primarily include foreign exchange forward contracts. The fair value of the Company’s derivative financial instruments is determined using pricing models based on current market rates. See Note 6 of Notes to Condensed Consolidated Financial Statements for information regarding currencies hedged against the U.S. dollar.
+We maintain the Gap, Inc. Deferred Compensation Plan (“DCP”), which allows eligible employees to defer base compensation and bonus up to a maximum percentage, and non-employee directors to defer receipt of a portion of their Board fees. Plan investments are directed by participants and are recorded at market value and designated for the DCP. The fair value of the Company’s DCP assets is determined based on quoted market prices, and the assets are recorded in other long-term assets on the Condensed Consolidated Balance Sheets.
+Nonfinancial Assets
+We review the carrying amount of long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. The fair value of the long-lived assets is determined using level 3 inputs and based on discounted future cash flows of the asset or asset group using a discount rate commensurate with the risk. The asset group is defined as the lowest level for which identifiable cash flows are available and largely independent of the cash flows of other groups of assets, which for our retail stores is at the store level.
+During the 39 weeks ended October 29, 2022, the Company recorded impairment of store assets of $10 million and impairment of operating lease assets of $16 million. The impairment of the store assets reduced the carrying amount of the applicable long-lived assets of $12 million to their estimated fair value of $2 million. The impairment of operating lease assets reduced the carrying amount of the applicable long-lived assets of $62 million to their estimated fair value of $46 million. The impairment charges were recorded in operating expenses on the Condensed Consolidated Statement of Operations.
+During the 39 weeks ended October 30, 2021, the Company recorded impairment of operating lease assets of $6 million. The impairment of the operating lease assets reduced the carrying amount of the applicable long-lived assets of $16 million to their estimated fair value of $10 million. The impairment charges were recorded in operating expenses on the Condensed Consolidated Statement of Operations. There were no material impairment charges recorded for store assets during the 39 weeks ended October 30, 2021.
+We review the carrying amount of goodwill and other indefinite-lived intangible assets for impairment annually and whenever events or changes in circumstances indicate that it is more likely than not that the carrying amount may not be recoverable.
+There were no impairment charges recorded for goodwill or other indefinite-lived intangible assets for the 13 and 39 weeks ended October 29, 2022 or October 30, 2021.
+Note 5. Income Taxes
+The effective income tax rate was negative 67.9 percent for the 13 weeks ended October 29, 2022, compared with 29.3 percent for the 13 weeks ended October 30, 2021. The decrease in the effective tax rate for the 13 weeks ended October 29, 2022 compared with the 13 weeks ended October 30, 2021 is primarily due to changes in the amount and jurisdictional mix of pre-tax earnings and the cumulative impact of a change in the Company’s estimated annual effective tax rate.
+The effective income tax rate was 174.0 percent for the 39 weeks ended October 29, 2022, compared with 17.8 percent for the 39 weeks ended October 30, 2021. The increase in the effective tax rate for the 39 weeks ended October 29, 2022 compared with the 39 weeks ended October 30, 2021 is primarily due to changes in the amount and jurisdictional mix of pre-tax earnings and the cumulative impact of a change in the Company’s estimated annual effective tax rate.
+12
+
+Note 6. Derivative Financial Instruments
+We operate in foreign countries, which exposes us to market risk associated with foreign currency exchange rate fluctuations. We use derivative financial instruments to manage our exposure to foreign currency exchange rate risk and do not enter into derivative financial contracts for trading purposes. Consistent with our risk management guidelines, we hedge a portion of our transactions related to merchandise purchases for foreign operations and certain intercompany transactions using foreign exchange forward contracts. These contracts are entered into with large, reputable financial institutions that are monitored for counterparty risk. The currencies hedged against changes in the U.S. dollar are the Canadian dollar, Japanese yen, New Taiwan dollar, Mexican peso, British pound, and Euro. Cash flows from derivative financial instruments are classified as cash flows from operating activities on the Condensed Consolidated Statements of Cash Flows.
+Derivative financial instruments are recorded at fair value on the Condensed Consolidated Balance Sheets as other current assets, other long-term assets, accrued expenses and other current liabilities, or other long-term liabilities.
+Cash Flow Hedges
+We designate foreign exchange forward contracts used to hedge forecasted merchandise purchases and related costs denominated in U.S. dollars made by our international subsidiaries whose functional currencies are their local currencies as cash flow hedges. The foreign exchange forward contracts entered into to hedge forecasted merchandise purchases and related costs generally have terms of 12 to 24 months. The effective portion of the gain or loss on the derivative financial instruments is reported as a component of other comprehensive income (loss) and is recognized into net income (loss) during the period in which the underlying transaction impacts the Condensed Consolidated Statements of Operations.
+Other Derivatives Not Designated as Hedging Instruments
+We use foreign exchange forward contracts to hedge our market risk exposure associated with foreign currency exchange rate fluctuations for certain intercompany balances denominated in currencies other than the functional currency of the entity with the intercompany balance. The gain or loss on the derivative financial instruments that represent economic hedges, as well as the remeasurement impact of the underlying intercompany balances, is recorded in operating expenses on the Condensed Consolidated Statements of Operations in the same period and generally offset each other.
+Outstanding Notional Amounts
+We had foreign exchange forward contracts outstanding in the following notional amounts:
+($ in millions)	October 29,
+2022		January 29,
+2022		October 30,
+2021	Derivatives designated as cash flow hedges	$	491 			$	524 			$	532 		Derivatives not designated as hedging instruments	583 			702 			717 		Total	$	1,074 			$	1,226 			$	1,249 	 
+Quantitative Disclosures about Derivative Financial Instruments
+The fair values of foreign exchange forward contracts are as follows:
+($ in millions)	October 29,
+2022		January 29,
+2022		October 30,
+2021	Derivatives designated as cash flow hedges:						Other current assets	$	25 			$	10 			$	3 		Other long-term assets	4 			— 			1 		Accrued expenses and other current liabilities	— 			— 			6 		Other long-term liabilities	— 			— 			1 							Derivatives not designated as hedging instruments:						Other current assets	17 			6 			6 		Accrued expenses and other current liabilities	2 			2 			6 								Total derivatives in an asset position	$	46 			$	16 			$	10 		Total derivatives in a liability position	$	2 			$	2 			$	13 	 
+Substantially all of the unrealized gains and losses from designated cash flow hedges as of October 29, 2022 will be recognized in income (loss) within the next 12 months at the then-current values, which may differ from the fair values as of October 29, 2022 shown above.
+13
+
+Our foreign exchange forward contracts are subject to master netting arrangements with each of our counterparties and such arrangements are enforceable in the event of default or early termination of the contract. We do not elect to offset the fair values of our derivative financial instruments on the Condensed Consolidated Balance Sheets, and as such, the fair values shown above represent gross amounts. The amounts subject to enforceable master netting arrangements were not material for all periods presented.
+See Note 4 of Notes to Condensed Consolidated Financial Statements for disclosures on the fair value measurements of our derivative financial instruments.
+The pre-tax amounts recognized in net income (loss) related to derivative instruments are as follows:
+Location and Amount of (Gain) Loss 
+Recognized in Income (Loss)		13 Weeks Ended 
+October 29, 2022		13 Weeks Ended 
+October 30, 2021	($ in millions)	Cost of goods sold and occupancy expenses		Operating expenses		Cost of goods sold and occupancy expenses		Operating expenses	Total amount of expense line items presented in the Condensed Consolidated Statements of Operations in which the effects of derivatives are recorded	$	2,530 			$	1,323 			$	2,282 			$	1,508 										(Gain) loss recognized in net income (loss)								Derivatives designated as cash flow hedges	(14)			— 			5 			— 	Derivatives not designated as hedging instruments	— 			(51)			— 			(7)		Total (gain) loss recognized in net income (loss)	$	(14)			$	(51)			$	5 			$	(7)	 
+Location and Amount of (Gain) Loss 
+Recognized in Income (Loss)		39 Weeks Ended
+October 29, 2022		39 Weeks Ended
+October 30, 2021	($ in millions)	Cost of goods sold and occupancy expenses		Operating expenses		Cost of goods sold and occupancy expenses		Operating expenses	Total amount of expense line items presented in the Condensed Consolidated Statements of Operations in which the effects of derivatives are recorded	$	7,438 			$	3,974 			$	7,031 			$	4,312 										(Gain) loss recognized in net income (loss)								Derivatives designated as cash flow hedges	(22)			— 			14 			— 		Derivatives not designated as hedging instruments	— 			(80)			— 			(2)		Total (gain) loss recognized in net income (loss)	$	(22)			$	(80)			$	14 			$	(2)	 
+Note 7. Share Repurchases
+Share repurchase activity is as follows: 																								 	13 Weeks Ended		39 Weeks Ended	($ and shares in millions except average per share cost)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Number of shares repurchased (1)	1.2 			2.9 			10.6 			4.7 		Total cost	$	12 			$	73 			$	123 			$	128 		Average per share cost including commissions	$	10.20 			$	24.73 			$	11.59 			$	27.28 	 _________
+(1)Excludes shares withheld to settle employee statutory tax withholding related to the vesting of stock units.
+In February 2019, the Company's Board of Directors (the "Board") approved a $1.0 billion share repurchase authorization (the "February 2019 repurchase program"). The February 2019 repurchase program had $476 million remaining as of October 29, 2022. All common stock repurchased is immediately retired.
+14
+
+Note 8. Earnings (Loss) Per Share
+Weighted-average number of shares used for earnings (loss) per share is as follows:
+ 	13 Weeks Ended		39 Weeks Ended	(shares in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Weighted-average number of shares - basic	365 			376 			367 			377 		Common stock equivalents (1)	1 			— 			3 			8 		Weighted-average number of shares - diluted	366 			376 			370 			385 	 
+(1) For the 13 weeks ended October 30, 2021, the dilutive impact of outstanding options and awards was excluded from dilutive shares as a result of the Company's net loss for the period.
+The anti-dilutive shares related to stock options and other stock awards excluded from the computation of weighted-average number of shares – diluted were 14 million and 8 million for the 13 weeks ended October 29, 2022 and October 30, 2021, respectively, and 14 million and 6 million for the 39 weeks ended October 29, 2022 and October 30, 2021, respectively, as their inclusion would have an anti-dilutive effect on earnings (loss) per share.
+Note 9. Commitments and Contingencies
+We are a party to a variety of contractual agreements under which we may be obligated to indemnify the other party for certain matters. These contracts primarily relate to our commercial contracts, operating leases, trademarks, intellectual property, financial agreements, and various other agreements. Under these contracts, we may provide certain routine indemnifications relating to representations and warranties (e.g., ownership of assets, environmental or tax indemnifications), or personal injury matters. The terms of these indemnifications range in duration and may not be explicitly defined. Generally, the maximum obligation under such indemnifications is not explicitly stated, and as a result, the overall amount of these obligations cannot be reasonably estimated. Historically, we have not made significant payments for these indemnifications. We believe that if we were to incur a loss in any of these matters, the loss would not have a material effect on our Condensed Consolidated Financial Statements taken as a whole.
+As a multinational company, we are subject to various proceedings, lawsuits, disputes, and claims ("Actions") arising in the ordinary course of our business. Many of these Actions raise complex factual and legal issues and are subject to uncertainties. As of October 29, 2022, Actions filed against us included commercial, intellectual property, customer, employment, securities, and data privacy claims, including class action lawsuits. The plaintiffs in some Actions seek unspecified damages or injunctive relief, or both. Actions are in various procedural stages and some are covered in part by insurance. As of October 29, 2022, January 29, 2022, and October 30, 2021, we recorded a liability for an estimated loss if the outcome of an Action is expected to result in a loss that is considered probable and reasonably estimable. The liability recorded was not material for any individual Action or in total for all periods presented. Subsequent to October 29, 2022, and through the filing date of this Quarterly Report on Form 10-Q, no information has become available that indicates a change is required that would be material to our Condensed Consolidated Financial Statements taken as a whole.
+We cannot predict with assurance the outcome of Actions brought against us. However, we do not believe that the outcome of any current Action would have a material effect on our Condensed Consolidated Financial Statements taken as a whole.
+Note 10. Segment Information
+We identify our operating segments according to how our business activities are managed and evaluated. As of October 29, 2022, our operating segments included: Old Navy Global, Gap Global, Banana Republic Global, and Athleta Global. Each operating segment has a brand president who is responsible for various geographies and channels. Each of our brands serves customer demand through stores and online channels, leveraging our omni-channel capabilities that allow customers to shop seamlessly across all of our brands. We have determined that each of our operating segments share similar economic and other qualitative characteristics, and therefore the results of our operating segments are aggregated into one reportable segment as of October 29, 2022. We continually monitor and review our segment reporting structure in accordance with authoritative guidance to determine whether any changes have occurred that would impact our reportable segments.
+See Note 2 of Notes to Condensed Consolidated Financial Statements for disaggregation of revenue for stores and online and by brand and region.
+15
+
+Note 11. Divestitures
+On August 10, 2022, we completed the transition of our United Kingdom and Ireland online operations to a third party, Next Plc, to operate the online operations as a franchise partner. On February 1, 2022, we completed the transition of our Gap Italy operations to a third party, OVS S.p.A. ("OVS"), to operate Gap Italy stores as a franchise partner. The impacts from these transactions were not material to our Condensed Consolidated Financial Statements for the 39 weeks ended October 29, 2022.
+On October 1, 2021, we also completed the transition of our Gap France operations to a third party, Hermione People & Brands, to operate Gap France stores as a franchise partner. The impact from the transaction was not material to our Condensed Consolidated Financial Statements for the 13 and 39 weeks ended October 30, 2021.
+As our European partnership model transition is now complete, we sold our distribution center in Rugby, England for $125 million on September 30, 2022. As a result of this transaction, the Company recognized a pre-tax gain on sale of $83 million within operating expenses on the Condensed Consolidated Statement of Operations during the 13 weeks ended October 29, 2022.
+On August 1, 2022, we completed the transition of our Old Navy Mexico operations to a third party, Grupo Axo, to operate Old Navy Mexico stores as a franchise partner. As a result of this transaction, the Company recognized a pre-tax loss of $35 million in the second quarter of fiscal 2022 when the assets were reclassified as held for sale. The pre-tax loss was recognized within operating expenses on the Condensed Consolidated Statement of Operations.
+On November 7, 2022, we signed agreements to transition our Gap Greater China operations to a third party, Baozun Inc., to operate Gap Greater China stores and the in-market website as a franchise partner, subject to regulatory approvals and closing conditions.
+On April 8, 2021 and May 21, 2021, we completed the divestitures of the Janie and Jack and Intermix brands, respectively. As a result of these transactions, the Company recognized a pre-tax loss of $59 million within operating expenses on the Condensed Consolidated Statement of Operations for the 39 weeks ended October 30, 2021.
+
+16
+
+Item 2.     Management's Discussion and Analysis of Financial Condition and Results of Operations.
+OUR BUSINESS
+We are a collection of purpose-led, lifestyle brands offering apparel, accessories, and personal care products for men, women, and children under the Old Navy, Gap, Banana Republic, and Athleta brands. We have Company-operated stores in the United States, Canada, Japan, China, and Taiwan. Our products are available to customers online through Company-owned websites and through the use of third parties that provide logistics and fulfillment services. We also have franchise agreements with unaffiliated franchisees to operate Old Navy, Gap, Banana Republic, and Athleta throughout Asia, Europe, Latin America, the Middle East, and Africa. Under these agreements, third parties operate, or will operate, stores and websites that sell apparel and related products under our brand names. In addition to operating in the specialty, outlet, online, and franchise channels, we use our omni-channel capabilities to bridge the digital world and physical stores to further enhance our shopping experience for our customers. Our omni-channel services, including curbside pick-up, buy online pick-up in store, order-in-store, find-in-store, and ship-from-store, as well as enhanced mobile-enabled experiences, are tailored uniquely across our collection of brands. Most of the products sold under our brand names are designed by us and manufactured by independent sources.
+OVERVIEW
+Financial results for the third quarter of fiscal 2022 are as follows:
+•Net sales for the third quarter of fiscal 2022 increased 2 percent compared with the third quarter of fiscal 2021.
+•Online sales for the third quarter of fiscal 2022 increased 5 percent compared with the third quarter of fiscal 2021 and store sales for the third quarter of fiscal 2022 increased 1 percent compared with the third quarter of fiscal 2021.
+•Gross profit for the third quarter of fiscal 2022 was $1.51 billion compared with $1.66 billion for the third quarter of fiscal 2021. Gross margin for the third quarter of fiscal 2022 was 37.4 percent compared with 42.1 percent for the third quarter of fiscal 2021.
+•Operating income for the third quarter of fiscal 2022 was $186 million compared with operating income of $153 million for the third quarter of fiscal 2021.
+•The effective income tax rate for the third quarter of fiscal 2022 was negative 67.9 percent compared with 29.3 percent for the third quarter of fiscal 2021.
+•Net income for the third quarter of fiscal 2022 was $282 million compared with net loss of $(152) million for the third quarter of fiscal 2021.
+•Diluted earnings per share was $0.77 for the third quarter of fiscal 2022 compared with diluted loss per share of $(0.40) for the third quarter of fiscal 2021.
+•Merchandise inventory as of the third quarter of fiscal 2022 increased 12 percent compared with the third quarter of fiscal 2021.
+During the third quarter of fiscal 2022 we made progress on right-sizing our inventory levels and rebalancing our assortment; however our gross margins were impacted by high levels of promotional activity. We have reduced inventory buys, primarily at Old Navy Global, and we continue to have select seasonal product being stored at distribution centers for expected introduction into the market through fiscal 2023.
+The Company has continued to take steps to optimize profitability and cash flow to drive long-term improvements across our business. These steps include reducing open and existing corporate roles, renegotiating our advertising agency contracts, reducing technology operating costs, and rationalizing digital investments. The Company did not incur material charges in connection with these steps during the third quarter of fiscal 2022.
+During the third quarter of fiscal 2022, the Company ended our Yeezy Gap contract and recorded pre-tax impairment costs of $53 million, primarily related to inventory, as a result of the decision. The costs were recorded in costs of goods sold and occupancy expenses on the Condensed Consolidated Statement of Operations.
+The Company is also continuing to reduce the number of Gap and Banana Republic stores in North America by approximately 350 stores from the beginning of fiscal 2020 to the end of fiscal 2023. As of October 29, 2022, we have closed, net of openings, 279 Gap and Banana Republic stores in North America since the beginning of fiscal 2020.
+Additionally, we completed the transition of our United Kingdom and Ireland online operations to a franchise partner on August 10, 2022. We also completed the transition of our Gap France operations and Gap Italy operations to franchise partners on October 1, 2021 and February 1, 2022, respectively. As our European partnership model transition is now complete, during the third quarter of fiscal 2022, we sold the distribution center in Rugby, England for $125 million and recorded a pre-tax gain on sale of $83 million within operating expenses on the Condensed Consolidated Statement of Operations.
+17
+
+On August 1, 2022, we completed the transition of our Old Navy Mexico operations to a third party, Grupo Axo, to operate Old Navy Mexico stores as a franchise partner. As a result of this transaction, the Company recognized a pre-tax loss of $35 million in the second quarter of fiscal 2022 when the assets were reclassified as held for sale. The pre-tax loss was recognized within operating expenses on the Condensed Consolidated Statement of Operations.
+On November 7, 2022, we signed agreements to transition our Gap Greater China operations to a third party, Baozun Inc., to operate Gap Greater China stores and the in-market website as a franchise partner, subject to regulatory approvals and closing conditions.
+We remain focused on the following strategic priorities in the near term:
+•driving improved sales through assortment improvements and a balanced and relevant category mix;
+•reducing our fixed cost structure to improve profitability and manage through current macro-economic challenges;
+•leveraging our scale to navigate disruptions and constraints in the global supply chain;
+•managing inventory to support a healthy merchandise margin;
+•rationalizing the Gap and Banana Republic store fleet;
+•prioritizing asset-light growth through licensing, online, and franchise partnerships globally;
+•creating product that offers value to our customers through a combination of fit, quality, brand, and price;
+•optimizing investments in our four purpose-led lifestyle brands to drive relevance and gain market share;
+•growing our online business;
+•attracting and retaining strong talent in our businesses and functions; and
+•continuing to integrate social and environmental sustainability into business practices to support long-term growth.
+We believe focusing on these priorities in the near term will enable the Company to execute against its Power Plan strategy, including leveraging:
+•The Power of its Brands, reflected by the Company’s four purpose-led, lifestyle brands: Old Navy, Gap, Banana Republic, and Athleta;
+•The Power of its Portfolio, which enables growth synergies across key customer categories; and
+•The Power of its Platform, which leverages the Company’s powerful platform to both enable growth, such as through competitive omni-channel capabilities, as well as cost synergies, fueled by its scaled operations.
+
+
+18
+
+RESULTS OF OPERATIONS
+Net Sales
+See Note 2 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Form 10-Q, for net sales disaggregation.
+Comparable Sales ("Comp Sales")
+Comp Sales include the results of Company-operated stores and sales through online channels. The calculation of Gap Inc. Comp Sales excludes the results of our franchise business. Gap Inc. Comp Sales included the results of Janie and Jack and Intermix until the divestitures of those brands in fiscal 2021.
+A store is included in the Comp Sales calculations when it has been open and operated by the Company for at least one year and the selling square footage has not changed by 15 percent or more within the past year. A store is included in the Comp Sales calculations on the first day it has comparable prior year sales. Stores in which the selling square footage has changed by 15 percent or more as a result of a remodel, expansion, or reduction are excluded from the Comp Sales calculations until the first day they have comparable prior year sales.
+A store is considered non-comparable ("Non-comp") when it has been open and operated by the Company for less than one year or has changed its selling square footage by 15 percent or more within the past year.
+A store is considered "Closed" if it is temporarily closed for three or more full consecutive days or it is permanently closed. When a temporarily closed store reopens, the store will be placed in the Comp/Non-comp status it was in prior to its closure. If a store was in Closed status for three or more days in the prior year, the store will be in Non-comp status for the same days the following year.
+Current year foreign exchange rates are applied to both current year and prior year Comp Sales to achieve a consistent basis for comparison.
+The percentage change in Comp Sales by global brand and for The Gap, Inc., as compared with the preceding year, is as follows:
+ 	13 Weeks Ended		39 Weeks Ended	 	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Old Navy Global	(1)	%		(9)	%		(13)	%		3 	%	Gap Global	4 	%		7 	%		(4)	%		8 	%	Banana Republic Global	10 	%		28 	%		14 	%		22 	%	Athleta Global	— 	%		2 	%		(5)	%		13 	%	The Gap, Inc.	1 	%		(1)	%		(8)	%		7 	% 
+
+
+19
+
+Store count, openings, closings, and square footage for our stores are as follows:
+ 	January 29, 2022		39 Weeks Ended October 29, 2022		October 29, 2022	 	Number of
+Store Locations		Number of
+Stores Opened		Number of
+Stores Closed		Number of
+Store Locations		Square Footage
+(in millions)	Old Navy North America (1)	1,252 			25 			6 			1,247 			20.0 		Gap North America	520 			2 			18 			504 			5.4 		Gap Asia	329 			4 			74 			259 			2.2 		Gap Europe (2)	11 			— 			— 			— 			— 		Banana Republic North America	446 			2 			15 			433 			3.6 		Banana Republic Asia	50 			2 			3 			49 			0.2 		Athleta North America	227 			29 			5 			251 			1.0 		Company-operated stores total	2,835 			64 			121 			2,743 			32.4 		Franchise (1) (2)	564 			77 			39 			637 			 N/A	Total	3,399 			141 			160 			3,380 			32.4 		Decrease over prior year							(2.3)	%		(3.9)	%											 	January 30, 2021		39 Weeks Ended October 30, 2021		October 30, 2021	 	Number of
+Store Locations		Number of
+Stores Opened		Number of
+Stores Closed		Number of
+Store Locations		Square Footage
+(in millions)	Old Navy North America	1,220 			42 			5 			1,257 			20.1 		Gap North America	556 			1 			19 			538 			5.7 		Gap Asia	340 			11 			16 			335 			2.8 		Gap Europe (3)	117 			1 			86 			11 			0.1 		Banana Republic North America	471 			2 			12 			461 			3.9 		Banana Republic Asia	47 			6 			2 			51 			0.2 	Athleta North America	199 			22 			1 			220 			0.9 		Intermix North America (4)	31 			— 			— 			— 			— 		Janie and Jack North America (4)	119 			— 			— 			— 			— 		Company-operated stores total	3,100 			85 			141 			2,873 			33.7 		Franchise (3)	615 			58 			108 			586 			N/A	Total	3,715 			143 			249 			3,459 			33.7 		Decrease over prior year							(8.6)	%		(5.1)	% 
+__________
+(1)The 24 Old Navy Mexico stores that were transitioned to Grupo Axo during the period are not included as store closures or openings for Company-operated and Franchise store activity. The ending balance for Old Navy North America excludes these stores and the ending balance for Franchise includes these stores.
+(2)The 11 Gap Italy stores that were transitioned to OVS during the period are not included as store closures or openings for Company-operated and Franchise store activity. The ending balance for Gap Europe excludes these stores and the ending balance for Franchise includes these stores.
+(3)The 21 Gap France stores that were transitioned to Hermione People & Brands during the period are not included as store closures or openings for Company-operated and Franchise store activity. The ending balance for Gap Europe excludes these stores and the ending balance for Franchise includes these stores.
+(4)On April 8, 2021, the Company completed the divestiture of the Janie and Jack brand. On May 21, 2021, the Company completed the divestiture of the Intermix brand. The 150 stores divested are not included as store closures or in the ending balance for fiscal 2021.
+Outlet and factory stores are reflected in each of the respective brands.
+20
+
+Net Sales
+Our net sales for the third quarter of fiscal 2022 increased $96 million, or 2 percent, compared with the third quarter of fiscal 2021, in part due to timing of franchise sales. This was partially offset by strategic store closures, as well as an unfavorable impact of foreign exchange of $50 million. The foreign exchange impact is the translation impact if net sales for the third quarter of fiscal 2021 were translated at exchange rates applicable during the third quarter of fiscal 2022.
+Our net sales for the first three quarters of fiscal 2022 decreased $772 million, or 6 percent, compared with the first three quarters of fiscal 2021, driven primarily by Old Navy Global as a result of inventory delays related to global supply chain disruptions, as well as size and assortment imbalances in the first half of fiscal 2022. The decrease in net sales was also driven by strategic store closures and the divestitures of the Janie and Jack and Intermix brands last year, as well as an unfavorable impact of foreign exchange of $101 million. The foreign exchange impact is the translation impact if net sales for the first three quarters of fiscal 2021 were translated at exchange rates applicable during the first three quarters of fiscal 2022. The decrease in net sales was partially offset by the positive impact of growth in Banana Republic Global net sales.
+Cost of Goods Sold and Occupancy Expenses
+  
+13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Cost of goods sold and occupancy expenses	$	2,530 			$	2,282 			$	7,438 			$	7,031 		Gross profit	$	1,509 			$	1,661 			$	3,935 			$	5,114 		
+Cost of goods sold and occupancy expenses as a percentage of net sales
+62.6 	%		57.9 	%		65.4 	%		57.9 	%	Gross margin	37.4 	%		42.1 	%		34.6 	%		42.1 	% 
+Cost of goods sold and occupancy expenses increased 4.7 percentage points as a percentage of net sales in the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021.
+•Cost of goods sold increased 4.8 percentage points as a percentage of net sales in the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021, driven by higher promotional activity primarily at Old Navy Global and Gap Global as well as inventory impairment as a result of the decision to discontinue the Yeezy Gap business. Average unit costs were relatively flat as commodity price increases were offset by a decrease in air freight expense during the third quarter of fiscal 2022.
+•Occupancy expenses decreased 0.1 percentage points as a percentage of net sales in the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021, primarily driven by an increase in net sales.
+Cost of goods sold and occupancy expenses increased 7.5 percentage points as a percentage of net sales in the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021.
+•Cost of goods sold increased 6.9 percentage points as a percentage of net sales in the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021, primarily driven by increased average unit costs which were impacted by higher air freight expenses and commodity price increases as well as higher promotional activity. The remaining increase was driven by inventory impairment primarily related to seasonal product and extended size product at Old Navy Global and inventory impairment as a result of the decision to discontinue the Yeezy Gap business.
+•Occupancy expenses increased 0.6 percentage points as a percentage of net sales in the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021, primarily driven by a decrease in comparable sales without a corresponding decrease in fixed occupancy expenses.
+21
+
+Operating Expenses
+  
+13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Operating expenses	$	1,323 			$	1,508 			$	3,974 			$	4,312 		Operating expenses as a percentage of net sales	32.8 	%		38.2 	%		34.9 	%		35.5 	%	Operating margin	4.6 	%		3.9 	%		(0.3)	%		6.6 	% 
+Operating expenses decreased $185 million, or 5.4 percentage points as a percentage of net sales in the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021 primarily due to the following:
+•a gain of $83 million on sale of building;
+•a decrease in performance-based compensation; and
+•a decrease in advertising expenses.
+Operating expenses decreased $338 million, or 0.6 percentage points as a percentage of net sales in the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021 primarily due to the following:
+•a decrease in performance-based compensation; and
+•a gain of $83 million on sale of building.
+Interest Expense
+  
+13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Interest expense	$	22 			$	44 			$	63 			$	149 	 
+Interest expense decreased $22 million or 50 percent during the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021 and decreased $86 million or 58 percent during the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021 primarily due to lower interest rates and principal for outstanding borrowings.
+Income Taxes
+  
+13 Weeks Ended		39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021		October 29,
+2022		October 30,
+2021	Income taxes	$	(114)			$	(63)			$	(167)			$	59 		Effective tax rate	(67.9)	%		29.3 	%		174.0 	%		17.8 	% 
+The decrease in the effective tax rate for the third quarter of fiscal 2022 compared with the third quarter of fiscal 2021 is primarily due to changes in the amount and jurisdictional mix of pre-tax earnings and the cumulative impact of a change in the Company’s estimated annual effective tax rate.
+The increase in the effective tax rate for the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021 is primarily due to changes in the amount and jurisdictional mix of pre-tax earnings and the cumulative impact of a change in the Company’s estimated annual effective tax rate.
+We expect the income tax benefit from the third quarter of fiscal 2022 to be offset by significant tax expense in the fourth quarter of fiscal 2022 as a result of fluctuations in quarterly pre-tax earnings.
+22
+
+LIQUIDITY AND CAPITAL RESOURCES
+As of October 29, 2022, we consider the following to be our primary measures of liquidity and capital resources:
+($ in millions)	Source of Liquidity		Outstanding Indebtedness		Total Available Liquidity	Cash and cash equivalents	$	679 			$	— 			$	679 		Debt					3.625% Senior Notes due 2029	750 			750 			— 		3.875% Senior Notes due 2031	750 			750 			— 		Total	$	2,179 			$	1,500 			$	679 	 
+We are also able to supplement near-term liquidity, if necessary, with our ABL Facility or other available market instruments. As of October 29, 2022, the Company's outstanding borrowing under the ABL Facility was $350 million. See Note 3 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Form 10-Q, for disclosures on the ABL Facility.
+Our largest source of operating cash flows is cash collections from the sale of our merchandise. Our primary uses of cash include merchandise inventory purchases, lease and occupancy costs, personnel-related expenses, purchases of property and equipment, shipping costs, and payment of taxes. As our business typically follows a seasonal pattern, with sales peaking during the end-of-year holiday period, we fund inventory expenditures during normal and peak periods through cash flows from operating activities and available cash. Additionally, we have select seasonal product being stored at distribution centers for expected introduction into the market through fiscal 2023, which will impact inventory expenditures in future periods. The seasonality of our operations, in addition to the impact of global economic conditions such as the uncertainty surrounding global inflationary pressures, the COVID-19 pandemic, and the Russia-Ukraine crisis, may lead to significant fluctuations in certain asset and liability accounts as well as cash inflows and outflows between fiscal year-end and subsequent interim periods.
+We believe our existing balances of cash and cash equivalents, along with our cash flows from operations, and instruments mentioned above, provide sufficient funds for our business operations as well as capital expenditures, dividends, and other liquidity requirements associated with our business operations over the next 12 months and beyond.
+Cash Flows from Operating Activities
+Net cash used for operating activities was $112 million during the first three quarters of fiscal 2022 compared with $682 million of cash provided by operating activities during the first three quarters of fiscal 2021, primarily due to the following:
+    Net Income
+•a decrease in net income;
+    Non-cash item
+•a decrease of $325 million due to a loss on extinguishment of debt during the first three quarters of fiscal 2021;
+Changes in operating assets and liabilities
+•a decrease of $384 million related to accounts payable primarily due to the timing of payments for inventory during the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021; and
+•a decrease of $362 million related to accrued expenses and other current liabilities primarily due to a decrease in performance-based compensation for fiscal 2022 compared with fiscal 2021; partially offset by
+•an increase of $310 million related to income taxes payable, net of receivables and other tax-related items, primarily due to the receipt of tax refunds during the first three quarters of fiscal 2022 related to our fiscal 2020 net operating loss carryback claims; and
+•an increase of $210 million related to merchandise inventory primarily due to timing of receipts as a result of shipping delays and port congestion that occurred during the first three quarters of fiscal 2021.
+23
+
+Cash Flows from Investing Activities
+Net cash used for investing activities was $119 million during the first three quarters of fiscal 2022 compared with $508 million of cash used for investing activities during the first three quarters of fiscal 2021, primarily due to the following:
+•$458 million in net proceeds from sale of buildings during the first three quarters of fiscal 2022; and
+•$135 million in cash payments for acquisitions in the first three quarters of fiscal 2021; partially offset by
+•$134 million in net proceeds from available-for-sale securities during the first three quarters of fiscal 2021; and
+•$91 million more purchases of property and equipment during the first three quarters of fiscal 2022 compared with the first three quarters of fiscal 2021.
+Cash Flows from Financing Activities
+Net cash provided by financing activities was $60 million during the first three quarters of fiscal 2022 compared with $1,358 million of cash used for financing activities during the first three quarters of fiscal 2021, primarily due to the following:
+•$2,546 million for payments related to the extinguishment of long-term debt during the first three quarters of fiscal 2021; and
+•$350 million in proceeds received from borrowing under the ABL Facility during the first quarter of fiscal 2022; partially offset by
+•$1,500 million in proceeds received for the issuance of long-term debt during the first three quarters of fiscal 2021.
+Free Cash Flow
+Free cash flow is a non-GAAP financial measure. We believe free cash flow is an important metric because it represents a measure of how much cash a company has available for discretionary and non-discretionary items after the deduction of capital expenditures. We require regular capital expenditures including technology improvements to automate processes, engage with customers, and optimize our supply chain in addition to building and maintaining stores. We use this metric internally, as we believe our sustained ability to generate free cash flow is an important driver of value creation. However, this non-GAAP financial measure is not intended to supersede or replace our GAAP results.
+The following table reconciles free cash flow, a non-GAAP financial measure, from a GAAP financial measure.
+ 	39 Weeks Ended	($ in millions)	October 29,
+2022		October 30,
+2021	Net cash provided by (used for) operating activities	$	(112)			$	682 		Less: Purchases of property and equipment	(577)			(486)	Free cash flow	$	(689)			$	196 	 
+Dividend Policy
+In determining whether and at what level to declare a dividend, we consider a number of factors including sustainability, operating performance, liquidity, and market conditions.
+We paid a dividend of $0.15 per share during the third quarter of fiscal 2022. In November 2022, the Board authorized a dividend of $0.15 per share for the fourth quarter of fiscal 2022.
+Share Repurchases
+Certain financial information about the Company’s share repurchases is set forth in Note 7 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Form 10-Q.
+Summary Disclosures about Contractual Cash Obligations and Commercial Commitments
+As of October 29, 2022, our merchandise inventory-related purchase obligations have decreased compared with January 29, 2022. In addition to seasonal fluctuations that are inherent to our business, we have reduced inventory buys in an effort to reduce and rebalance inventory levels, primarily at Old Navy Global. The global supply chain challenges have also improved, reducing the need to start the merchandise booking process earlier. There have been no other material changes to our contractual obligations and commercial commitments as disclosed in our Annual Report on Form 10-K as of January 29, 2022, other than those which occur in the normal course of business. See Note 9 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Form 10-Q, for disclosures on commitments and contingencies.
+24
+
+Critical Accounting Policies and Estimates
+There have been no significant changes to our critical accounting policies and estimates as discussed in our Annual Report on Form 10-K for the fiscal year ended January 29, 2022. See Note 1 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Form 10-Q, for disclosures on accounting policies.
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk.
+Our market risk profile as of January 29, 2022, is disclosed in our Annual Report on Form 10-K and has not significantly changed other than the $350 million variable-rate borrowing under our ABL Facility, which is subject to interest rate risk. On July 13, 2022, we entered into an amendment and restatement of the ABL Facility. Among other changes, the amendment and restatement modified the reference rate from LIBOR to SOFR and reduced the applicable interest rate margin. See Notes 3, 4, and 6 of Notes to Condensed Consolidated Financial Statements included in Part I, Item 1, of this Form 10-Q for disclosures on our debt and credit facilities, investments, and derivative financial instruments.
+Item 4.     Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+We carried out an evaluation, under the supervision and with the participation of management, including the interim Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended) as of the end of the period covered by this Quarterly Report on Form 10-Q. Based upon that evaluation, the interim Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures are effective.
+Changes in Internal Control over Financial Reporting
+During the third quarter of fiscal 2022, we shifted our legacy enterprise resource planning ("ERP") system to a cloud-based ERP system. As part of the system conversion, we assessed the impact to the control environment and modified internal controls where necessary.
+There were no other changes in the Company’s internal control over financial reporting that occurred during the Company’s third quarter of fiscal 2022 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+25
+
+PART II – OTHER INFORMATION
+Item 1.     Legal Proceedings.
+As a multinational company, we are subject to various proceedings, lawsuits, disputes, and claims ("Actions") arising in the ordinary course of our business. Many of these Actions raise complex factual and legal issues and are subject to uncertainties. Actions filed against us from time to time include commercial, intellectual property, customer, employment, securities, and data privacy claims, including class action lawsuits. The plaintiffs in some Actions seek unspecified damages or injunctive relief, or both. Actions are in various procedural stages, and some are covered in part by insurance.
+We cannot predict with assurance the outcome of Actions brought against us. Accordingly, developments, settlements, or resolutions may occur and impact operations in the quarter of such development, settlement, or resolution. However, we do not believe that the outcome of any current Action would have a material effect on our financial results.
+Item 1A.     Risk Factors.
+There have been no material changes in our risk factors from those disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 29, 2022.
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds.
+The following table presents information with respect to purchases of common stock of the Company made for the 13 weeks ended October 29, 2022 by the Company or any affiliated purchaser, as defined in Rule 10b-18(a)(3) under the Securities Exchange Act of 1934, as amended:
+Total Number 
+of Shares
+Purchased (1)		Average
+Price Paid
+Per Share
+Including
+Commissions		Total Number
+of Shares
+Purchased as
+Part of Publicly
+Announced
+Plans or
+Programs		Maximum Number
+(or approximate
+dollar amount) of
+Shares that May
+Yet be Purchased
+Under the Plans or
+Programs (2)	Month #1 (July 31 - August 27)	1,176,425 			$	10.20 			1,176,425 			$ 476 million	Month #2 (August 28 - October 1)	— 			$	— 			— 			$ 476 million	Month #3 (October 2 - October 29)	— 			$	— 			— 			$ 476 million	Total	1,176,425 			$	10.20 			1,176,425 			 
+__________
+(1)Excludes shares withheld to settle employee statutory tax withholding related to the vesting of stock units.
+(2)In February 2019, the Board approved a $1.0 billion share repurchase authorization, which has no expiration date.
+26
+
+Item 6.     Exhibits.
+Incorporated by Reference			Exhibit No.		Exhibit Description		Form		File No.		Exhibit		Filing Date		Filed/
+Furnished
+Herewith	3.1		Amended and Restated Certificate of Incorporation (P)		10-K		1-7562		3.1		April 26, 1993			
+3.2
+Certificate of Amendment of Amended and Restated Certificate of Incorporation		10-K		1-7562		3.2		April 4, 2000			
+3.3
+Amended and Restated Bylaws (effective August 15, 2022)		10-Q		1-7562		3.3		August 26, 2022		
+10.1*
+Fourth Amended and Restated Revolving Credit Agreement dated as of July 13, 2022
+X	
+31.1
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Executive Officer of The Gap, Inc. (Section 302 of the Sarbanes-Oxley Act of 2002)										X	
+31.2
+Rule 13a-14(a)/15d-14(a) Certification of the Chief Financial Officer of The Gap, Inc. (Section 302 of the Sarbanes-Oxley Act of 2002)										X	
+32.1
+Certification of the Chief Executive Officer of The Gap, Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002										X	
+32.2
+Certification of the Chief Financial Officer of The Gap, Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002										X	101		The following materials from The Gap, Inc.’s Quarterly Report on Form 10-Q for the quarter ended October 29, 2022, formatted in Inline XBRL (eXtensible Business Reporting Language): (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Comprehensive Income (Loss), (iv) the Condensed Consolidated Statements of Stockholders' Equity; (v) the Condensed Consolidated Statements of Cash Flows; and (vi) Notes to Condensed Consolidated Financial Statements										X	104		Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101)										X 
+_____________________________
+(P)    This Exhibit was originally filed in paper format. Accordingly, a hyperlink has not been provided.
+*    This Exhibit was originally filed in PDF format and is provided here in HTML format with updated section numbering.
+
+
+
+
+
+27
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE GAP, INC.					Date:	November 22, 2022	By	/s/ Bob L. Martin				Bob L. Martin				Interim Chief Executive Officer				
+(Principal Executive Officer)
+Date:	November 22, 2022	By	/s/ Katrina O'Connell				Katrina O'Connell				Executive Vice President and Chief Financial Officer				
+(Principal Financial and Accounting Officer)
+ 
+28
