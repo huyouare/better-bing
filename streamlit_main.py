@@ -1,6 +1,5 @@
 """Streamlit frontend + main langchain logic."""
 from gpt_index import GPTSimpleVectorIndex
-
 import streamlit as st
 from streamlit_chat import message
 
@@ -14,6 +13,20 @@ from crawler import Crawler
 import data_loader
 import time
 
+llm = OpenAI()
+
+@st.cache_resource
+def load_index(path):
+    print('loading index')
+    return GPTSimpleVectorIndex.load_from_disk(path)
+
+option_files = {
+    'Paul Graham essays': 'indexes/index_1676177220783.json', # Note - this looks wrong, check later
+    #'GPT Index documentation': 'indexes/index_1676182223692.json'),
+    'Marc Andreessen blog': 'indexes/index_pmarchive-com.json',
+    'The Jefferson Bible': 'indexes/index_bible.json',
+    'Gap Earnings': 'indexes/index_gap_earnings.json'
+}
 
 @st.cache_resource
 def handle_index(option, input_url=''):
@@ -25,16 +38,8 @@ def handle_index(option, input_url=''):
     # Skip crawling if using pre-generated index.
     if option != 'None':
         print("Loading index:", option)
-        if option == 'Paul Graham essays':
-            result = load_index('index/index_1676181446926.json')
-        elif option == 'GPT Index documentation':
-            result = load_index('index/index_1676182223692.json')
-        elif option == 'Marc Andreessen blog':
-            result = load_index('index/index_pmarchive-com.json')
-        elif option == 'The Jefferson Bible':
-            result = load_index('index/index_bible.json')
-        elif option == 'pdf':
-            result = load_index('index/index_pdf.json')
+        assert option in option_files
+        result = load_index(option_files[option])
         st.session_state["index"] = True
     return result
 
@@ -43,11 +48,6 @@ def handle_index(option, input_url=''):
 def create_index():
     return data_loader.create_index(dir_name=st.session_state["crawl_directory"])
 
-
-@st.cache_resource
-def load_index(path):
-    print('loading index')
-    return GPTSimpleVectorIndex.load_from_disk(path)
 
 
 def query_index(index, query):
@@ -61,6 +61,7 @@ def query_index(index, query):
 
 def load_chain(index):
     search = SerpAPIWrapper()
+    llm = OpenAI(temperature=0)
     llm_math_chain = LLMMathChain(llm=llm, verbose=True)
 
     tools = [
@@ -93,6 +94,9 @@ def get_text():
         "Enter your question here: ", "", key="input")
     return input_text
 
+st.set_page_config(page_title="GPT4me", page_icon=":robot:")
+st.header("Generate a custom ChatGPT for your own content.")
+input_url = st.text_input("What URL would you like to index?")
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
@@ -101,16 +105,9 @@ if "past" not in st.session_state:
     st.session_state["past"] = []
 
 
-st.set_page_config(page_title="GPT4me", page_icon=":robot:")
-st.header("Generate a custom ChatGPT for your own content.")
-
-input_url = st.text_input("What URL would you like to index?")
-
-
 option = st.selectbox(
     '(Optional) select a pre-generated index:',
-    ('None', 'Paul Graham essays', 'Marc Andreessen blog', 'The Jefferson Bible', 'GPT Index documentation', 'pdf'))
-
+    list(option_files.keys()) + ['None',])
 
 index = None
 if "crawl" not in st.session_state:
