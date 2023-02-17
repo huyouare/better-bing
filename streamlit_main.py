@@ -103,7 +103,6 @@ def load_index(path, option=''):
 
 
 option_files = {
-    # Note - this looks wrong, check later
     'Paul Graham essays': 'indexes/index_1676177220783.json',
     # 'GPT Index documentation': 'indexes/index_1676182223692.json'),
     'Marc Andreessen blog': 'indexes/index_pmarchive-com.json',

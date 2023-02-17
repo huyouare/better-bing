@@ -8,14 +8,17 @@ def create_index(input_folder_path, output_dir='./indexes/') -> GPTSimpleVectorI
     SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
     input_file_path = os.path.abspath(input_folder_path)
 
+    print("input:" + input_file_path)
     loader = SimpleDirectoryReader(
         input_file_path, recursive=True, exclude_hidden=True, num_files_limit=25)
     documents = loader.load_data()
     index = GPTTreeIndex(documents)
+    print(index)
 
     file_name = os.path.basename(input_file_path).split('/')[-1]
-    output_path = os.path.abspath(os.path.join(output_dir, f'{file_name}.json'))
-    #print("output_path:" + output_path)
+    output_path = os.path.abspath(os.path.join(output_dir, f'index_{file_name}.json'))
+    print("output_path:" + output_path)
     index.save_to_disk(output_path)
 
     return index
+
