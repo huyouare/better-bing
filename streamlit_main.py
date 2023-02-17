@@ -8,6 +8,7 @@ from langchain.agents import initialize_agent, Tool
 from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
 from langchain.llms import OpenAI
+from langchain import LLMMathChain, SerpAPIWrapper
 
 from crawler import Crawler
 import data_loader
@@ -59,13 +60,26 @@ def query_index(index, query):
 
 
 def load_chain(index):
+    search = SerpAPIWrapper()
+    llm_math_chain = LLMMathChain(llm=llm, verbose=True)
+
     tools = [
         Tool(
             name="GPT Index",
             func=lambda q: str(query_index(index, q)),
-            description="PDF of financials from the company GAP filed to the SEC. You must always use this tool",
+            description="PDF of financials from the company GAP filed to the SEC. You must always start with this tool.",
             return_direct=True
         ),
+        Tool(
+            name="Search",
+            func=search.run,
+            description="useful for when you need to answer questions about current events"
+        ),
+        Tool(
+            name="Calculator",
+            func=llm_math_chain.run,
+            description="useful for when you need to answer questions about math"
+        )
     ]
     memory = ConversationBufferMemory(memory_key="chat_history")
     llm = OpenAI(temperature=0)
