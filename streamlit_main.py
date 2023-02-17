@@ -75,8 +75,8 @@ def load_chain(index):
             description="useful for when you need to answer questions about math"
         )
     ]
+
     memory = ConversationBufferMemory(memory_key="chat_history")
-    llm = OpenAI(temperature=0)
     agent_chain = initialize_agent(
         tools, llm, agent="conversational-react-description", memory=memory, verbose=True)
     return agent_chain
