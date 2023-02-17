@@ -30,11 +30,6 @@ option_files = {
 
 @st.cache_resource
 def handle_index(option, input_url=''):
-    result = None
-    if option == 'None' and input_url and "crawl" in st.session_state:
-        print("Creating new index...")
-        result = create_index()
-        st.session_state["index"] = True
     # Skip crawling if using pre-generated index.
     if option != 'None':
         print("Loading index:", option)
@@ -43,11 +38,9 @@ def handle_index(option, input_url=''):
         st.session_state["index"] = True
     return result
 
-
 @st.cache_resource
 def create_index():
     return data_loader.create_index(dir_name=st.session_state["crawl_directory"])
-
 
 
 def query_index(index, query):
@@ -94,9 +87,9 @@ def get_text():
         "Enter your question here: ", "", key="input")
     return input_text
 
-st.set_page_config(page_title="GPT4me", page_icon=":robot:")
-st.header("Generate a custom ChatGPT for your own content.")
-input_url = st.text_input("What URL would you like to index?")
+st.set_page_config(page_title="Better Bing", page_icon=":robot:")
+st.header("Generate a better ChatGPT for your own content.")
+#input_url = st.text_input("What URL would you like to index?")
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
@@ -109,20 +102,13 @@ option = st.selectbox(
     '(Optional) select a pre-generated index:',
     list(option_files.keys()) + ['None',])
 
-index = None
-if "crawl" not in st.session_state:
-    if input_url:
-        time_millis = round(time.time() * 1000)
-        dir_name = str(time_millis)
-        c = Crawler(input_url, f"./docs/{dir_name}", number_of_pages=25)
-        c.crawl()
-        st.session_state["crawl"] = True
-        st.session_state["crawl_directory"] = dir_name
-    index = handle_index(option, input_url)
+index = handle_index(option)
 
 if "index" in st.session_state:
     print("Current index:", index)
+    st.write("Loading chain..." + index)
     chain = load_chain(index)
+    st.write("Finished loading chain")
     user_input = get_text()
 
     if user_input:
