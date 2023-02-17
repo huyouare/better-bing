@@ -1,5 +1,5 @@
 """Library for generating the index."""
-from gpt_index import GPTSimpleVectorIndex, download_loader
+from gpt_index import GPTSimpleVectorIndex, GPTTreeIndex, download_loader
 
 
 def create_index(dir_name='./data') -> GPTSimpleVectorIndex:
@@ -9,7 +9,7 @@ def create_index(dir_name='./data') -> GPTSimpleVectorIndex:
     loader = SimpleDirectoryReader(
         f"./docs/{dir_name}", recursive=True, exclude_hidden=True, num_files_limit=25)
     documents = loader.load_data()
-    index = GPTSimpleVectorIndex(documents)
+    index = GPTTreeIndex(documents)
 
     index.save_to_disk(f'index/index_{dir_name}.json')
 

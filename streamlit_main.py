@@ -1,5 +1,5 @@
 """Streamlit frontend + main langchain logic."""
-from gpt_index import GPTSimpleVectorIndex
+from gpt_index import GPTSimpleVectorIndex, GPTTreeIndex
 import streamlit as st
 from streamlit_chat import message
 
@@ -15,18 +15,25 @@ import time
 
 llm = OpenAI()
 
+
 @st.cache_resource
-def load_index(path):
+def load_index(path, option=''):
     print('loading index')
-    return GPTSimpleVectorIndex.load_from_disk(path)
+    if option == 'Gap Earnings':
+        return GPTTreeIndex.load_from_disk(path)
+    else:
+        return GPTSimpleVectorIndex.load_from_disk(path)
+
 
 option_files = {
-    'Paul Graham essays': 'indexes/index_1676177220783.json', # Note - this looks wrong, check later
-    #'GPT Index documentation': 'indexes/index_1676182223692.json'),
+    # Note - this looks wrong, check later
+    'Paul Graham essays': 'indexes/index_1676177220783.json',
+    # 'GPT Index documentation': 'indexes/index_1676182223692.json'),
     'Marc Andreessen blog': 'indexes/index_pmarchive-com.json',
     'The Jefferson Bible': 'indexes/index_bible.json',
-    'Gap Earnings': 'indexes/index_gap_earnings.json'
+    'Gap Earnings': 'indexes/index_pdf.json'
 }
+
 
 @st.cache_resource
 def handle_index(option, input_url=''):
@@ -35,8 +42,9 @@ def handle_index(option, input_url=''):
         print("Loading index:", option)
         assert option in option_files
         st.session_state["index"] = True
-        return load_index(option_files[option])
+        return load_index(option_files[option], option)
     return None
+
 
 @st.cache_resource
 def create_index():
@@ -87,9 +95,9 @@ def get_text():
         "Enter your question here: ", "", key="input")
     return input_text
 
+
 st.set_page_config(page_title="Better Bing", page_icon=":robot:")
 st.header("Generate a better ChatGPT for your own content.")
-#input_url = st.text_input("What URL would you like to index?")
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
@@ -100,7 +108,7 @@ if "past" not in st.session_state:
 
 option = st.selectbox(
     '(Optional) select a pre-generated index:',
-    ['None',] + list(option_files.keys()) )
+    ['None',] + list(option_files.keys()))
 
 index = handle_index(option)
 
