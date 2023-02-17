@@ -1,4 +1,5 @@
 """Streamlit frontend + main langchain logic."""
+import os
 from gpt_index import GPTSimpleVectorIndex, GPTTreeIndex
 import streamlit as st
 from streamlit_chat import message
@@ -12,6 +13,8 @@ from langchain import LLMMathChain, SerpAPIWrapper
 from crawler import Crawler
 import data_loader
 import time
+from pathlib import Path
+
 
 from pprint import pformat
 
@@ -100,6 +103,27 @@ def load_index(path, option=''):
         return GPTTreeIndex.load_from_disk(path)
     else:
         return GPTSimpleVectorIndex.load_from_disk(path)
+
+
+"""
+Given a path, return a dictionary of all indexes in this path.
+Key: Name of the index
+Value: Path of this index
+"""
+def gather_indexes(directory):
+    file_paths = {}
+    for file_or_folder in os.listdir(directory):
+        file_or_directory_path = os.path.join(directory, file_or_folder)
+        if not os.path.isfile(file_or_directory_path):
+            # skip folders
+            continue
+
+        filename = Path(file_or_directory_path).stem
+        # remove the prefix index_
+        filename = filename.replace("index_", "")
+        file_paths[filename] = file_or_directory_path
+        print(filename, file_or_directory_path)
+    return file_paths
 
 
 option_files = {
